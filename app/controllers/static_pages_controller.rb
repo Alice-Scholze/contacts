@@ -1,3 +1,4 @@
+# rails generate controller static_pages
 class StaticPagesController < ApplicationController
 
     def index
